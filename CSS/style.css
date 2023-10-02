@@ -697,7 +697,7 @@ header{
 
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 501px){
     .container{
         width: var(--container-width-sm);
         margin-left: 25px;
@@ -737,7 +737,7 @@ header{
         gap: 0.7rem;
     }
     .categories {
-        height: 145vh;
+        height: 88vh;
     }
     .category{
         padding: 1rem;
