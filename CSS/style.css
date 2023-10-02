@@ -697,7 +697,7 @@ header{
 
 }
 
-@media screen and (max-width: 501px){
+@media screen and (max-width: 522px){
     .container{
         width: var(--container-width-sm);
         margin-left: 25px;
@@ -737,7 +737,7 @@ header{
         gap: 0.7rem;
     }
     .categories {
-        height: 88vh;
+        height: 80vh;
     }
     .category{
         padding: 1rem;
@@ -775,23 +775,6 @@ header{
     .testimonial__body{
         padding: 1.2rem;
     }
-    /* .swiper-wrapper{
-        padding-left: 25px;
-    }
-    .testimonial__body::before {
-        left: 45.9%;
-        top: -1.5rem;
-        transform: rotate(45deg);
-    }
-    .testimonial__body p{
-        margin-top: 10px;
-    }
-    .avatar{
-        margin-left: 170px;
-    }
-    .testimonial__info{
-        margin-left: -20px;
-    } */
 
     /*========================== FOOTER =========================*/
     .footer__container{
