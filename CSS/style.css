@@ -175,7 +175,7 @@ header{
 
 .categories{
     background: var(--color-bg1);
-    height: 33rem;
+    height: 45rem;
 }
 
 .categories h1{
@@ -749,9 +749,7 @@ header{
     }
 
     /*========================= POPULAR COURSES =======================*/
-    .courses {
-    margin-top: 7rem;
-}
+
     .courses__container{
         margin-left: 15px;
         grid-template-columns: 1fr;
@@ -783,7 +781,7 @@ header{
         grid-template-columns: 1fr;
         text-align: center;
         gap: 2rem;
-        margin-left: 5px;
+        margin-left: 10px;
     }
     .footer__1 p{
         margin: 1rem auto;
