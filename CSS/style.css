@@ -557,7 +557,7 @@ header{
 
 /* ================= Categories ==================== */
 .categories{
-    height: 95vh;
+    height: 115vh;
 }
 
 .categories__container{
@@ -641,7 +641,7 @@ header{
         font-size: 0.8rem;
     }
     .categories {
-        height: 84vh;
+        height: 104vh;
     }
     .category__icon{
         font-size: 1.5rem;
@@ -653,7 +653,6 @@ header{
         width: 100%;
         gap: 2rem;
     }
-
     .courses {
         margin-top: 3rem;
     }
@@ -670,7 +669,7 @@ header{
     }
 
     .course__info p {
-        font-size: 1    rem;
+        font-size: 1rem;
     }
 
     .faqs__container {
@@ -737,7 +736,7 @@ header{
         gap: 0.7rem;
     }
     .categories {
-        height: 80vh;
+        height: 94vh;
     }
     .category{
         padding: 1rem;
